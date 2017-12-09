@@ -1,0 +1,14 @@
+{
+  "name": "rapid-prototype",
+  "version": "0.0.1",
+  "description": "A template for rapidly prototyping using Bootstrap, ExpressJS and EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Davis",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
